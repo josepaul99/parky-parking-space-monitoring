@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Project\Parky\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Project\Parky\app\build\intermediates\pre-dexed\debug\classes-28a1de3c31fa0e2be29ee17132f4c0b11545fca6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jose\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Project\Parky\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-5974db156a55c1a2fd793434101fe7c519cfea5a.jar" />
+    </item>
+    <item
+        jar="C:\Project\Parky\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Project\Parky\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-40fa77ea9091d87cdb890ced017a8191acb95216.jar" />
+    </item>
+    <item
+        jar="C:\Project\Parky\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Project\Parky\app\build\intermediates\pre-dexed\debug\classes-4b3cc362f9136397c2d73572a0b2a8ed5200f747.jar" />
+    </item>
+    <item
+        jar="C:\Project\Parky\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Project\Parky\app\build\intermediates\pre-dexed\debug\classes-6ae67e3ea2778b27aae1c75f3f69b89f89acf5a3.jar" />
+    </item>
+    <item
+        jar="C:\Project\Parky\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Project\Parky\app\build\intermediates\pre-dexed\debug\classes-596954e183117bb6433fed134757edae053f7cf9.jar" />
+    </item>
+    <item
+        jar="C:\Project\Parky\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Project\Parky\app\build\intermediates\pre-dexed\debug\classes-499cdc05e99f4ba65bc7637cbe94e19511a4d30a.jar" />
+    </item>
+    <item
+        jar="C:\Project\Parky\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Project\Parky\app\build\intermediates\pre-dexed\debug\classes-153b490b21731728b5585e97833c15077df3ed7b.jar" />
+    </item>
+    <item
+        jar="C:\Project\Parky\app\libs\mysql-connector-java-3.0.17-ga-bin.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3d8b493d12562fc904a947ea7b84394fe67e8a55">
+        <dex dex="C:\Project\Parky\app\build\intermediates\pre-dexed\debug\mysql-connector-java-3.0.17-ga-bin-d061ac6c04dc34060300f1039eab83e23ff2694a.jar" />
+    </item>
+    <item
+        jar="C:\Project\Parky\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Project\Parky\app\build\intermediates\pre-dexed\debug\classes-16b85951a78f53a784c84e8dc09d8e292e75121f.jar" />
+    </item>
+
+</items>

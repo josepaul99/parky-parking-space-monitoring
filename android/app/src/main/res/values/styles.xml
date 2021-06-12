@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:screenOrientation">portrait</item>
+        <item name="android:configChanges">keyboardHidden|orientation</item>
+
+    </style>
+
+    <style name="Chumma">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">19dp</item>
+        <item name="android:background">#017681</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_below">@+id/tv_free_space</item>
+        <item name="android:layout_alignLeft">@+id/tv_free_space</item>
+        <item name="android:layout_alignStart">@+id/tv_free_space</item>
+        <item name="android:layout_marginTop">1dp</item>
+        <item name="android:paddingTop">15dp</item>
+        <item name="android:paddingBottom">15dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

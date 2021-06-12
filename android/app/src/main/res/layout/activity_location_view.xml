@@ -1,0 +1,110 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.jkj.parky.LocationViewActivity"
+    android:id="@+id/location_view"
+    android:background="#0392b4"
+    android:padding="0dp">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/loca_name"
+        android:id="@+id/tv_locname"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#fff"
+        android:textColor="#828282"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingLeft="20dp"
+        android:singleLine="true"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/free_sp"
+        android:id="@+id/tv_free_space"
+        android:textColor="#fff"
+        android:textSize="25sp"
+        android:background="#0392b4"
+        android:textStyle="bold"
+        android:typeface="monospace"
+        android:textAlignment="gravity"
+        android:paddingTop="50dp"
+        android:paddingBottom="50dp"
+        android:gravity="center"
+        android:layout_below="@+id/tv_locname"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/free_sp"
+        android:id="@+id/tv_fsp_count"
+        android:textColor="#fff"
+        android:textSize="25sp"
+        android:background="#0392b4"
+        android:textStyle="bold"
+        android:typeface="monospace"
+        android:textAlignment="gravity"
+        android:paddingTop="25dp"
+        android:paddingBottom="25dp"
+        android:gravity="center"
+        android:layout_below="@+id/tv_free_space"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="@string/addres"
+        android:id="@+id/textView4"
+        style="@style/Chumma"
+        android:layout_below="@+id/tv_fsp_count"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#0392b4" />
+
+    <TextView
+        style="@style/Chumma"
+        android:text="@string/loc_adress"
+        android:id="@+id/tv_address"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="0dp"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:layout_below="@+id/textView4"
+        android:layout_alignParentLeft="true"
+        android:background="#0392b4" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Refresh"
+        android:id="@+id/btnrefresh"
+        android:background="#0594b6"
+        android:textColor="#ffffff"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/btnlogout"
+        android:layout_toStartOf="@+id/btnlogout"
+        android:layout_above="@+id/tv_free_space" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:id="@+id/btnlogout"
+        android:background="#0594b6"
+        android:textColor="#ffffff"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_above="@+id/tv_free_space" />
+
+</RelativeLayout>
