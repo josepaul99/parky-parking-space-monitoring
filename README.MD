@@ -18,8 +18,8 @@ Parky was the final year project in my Bachelor's degree which was completed in 
 - The python script runs on the raspberry pi
 - The script imports the raspberry pi GPIO library and setups the GPIO ports 17, 18 and 27
 - The script also connects to the mysql server which is locally hosted.
-- When a HIGH (means and object is infront of the IR sensor) is detected at the GPIO port the corresponding sensor's database value is updated to 1.
-- When a LOW (no object is infront of the IR sensor) is detected at the GPIO port the corresponding sensor's database value is updated to 0.
+- When a HIGH (means an object is infront of the IR sensor) is detected at the GPIO port, the corresponding sensor's database value is updated to 1.
+- When a LOW (no object is infront of the IR sensor) is detected at the GPIO port, the corresponding sensor's database value is updated to 0.
  
 ###### Android
 - Android app connects to the mysql database in the raspberry pi to read the sensor status.
