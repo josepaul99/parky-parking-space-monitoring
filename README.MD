@@ -4,11 +4,11 @@
 Parky was the final year project in my Bachelor's degree which was completed in the year **2016**. It is a simple working model of parking monitoring using Raspberry Pi 2 Model B and IR sensors.  
 
 ## Screenshots
-![SPLASH SCREEN](screenshot/Splash Screen.png "Splash Screen")
+![SPLASH SCREEN](screenshot/Splash%20Screen.png "Splash Screen")
 ![LOGIN PAGE](screenshot/Login.png "Login Page")
-![SIGNUP PAGE](screenshot/Signup screen.png "Signup Page")
-![CHOOSE LOCATION](screenshot/Choose Location.png "Choose Location")
-![PARKING AVAILABILITY](screenshot/Parking Availability.png "Parking Availability")
+![SIGNUP PAGE](screenshot/Signup%20screen.png "Signup Page")
+![CHOOSE LOCATION](screenshot/Choose%20Location.png "Choose Location")
+![PARKING AVAILABILITY](screenshot/Parking%20Availability.png "Parking Availability")
 
 ## Tech
 
